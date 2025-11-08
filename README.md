@@ -3,7 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
-# First create a repo → then push your code to it.
+## First create a repo → then push your code to it.
 
 This project is a starting point for a Flutter application.
 
